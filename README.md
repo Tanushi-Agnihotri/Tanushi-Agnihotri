@@ -63,10 +63,10 @@ mindset: "Clean schemas. Predictable APIs. Systems that don't fall over at 3 AM.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanushi-agnihotri&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=tanushi-agnihotri&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=false&bg_color=0D1117&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9&ring_color=8A63D2" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanushi-agnihotri&hide_border=true&background=0D1117&stroke=0D1117&ring=8A63D2&fire=8A63D2&currStreakLabel=8A63D2&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushi-agnihotri&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A63D2&text_color=c9d1d9&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushi-agnihotri&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A63D2&text_color=c9d1d9&langs_count=6&hide=cython,jupyter%20notebook,roff,makefile,dockerfile,shell&exclude_repo=" height="170" />
 
 </div>
 
@@ -142,21 +142,6 @@ Real-time auction platform with role-based auth (Buyer/Seller/Admin), bid valida
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/tanushi-agnihotri">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanushi-agnihotri&repo=bidsmart&hide_border=true&bg_color=0D1117&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/tanushi-agnihotri">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanushi-agnihotri&repo=linkedin-scraper&hide_border=true&bg_color=0D1117&title_color=8A63D2&icon_color=8A63D2&text_color=c9d1d9" />
-</a>
-
-</div>
 
 <br/>
 
